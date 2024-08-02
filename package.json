@@ -1,0 +1,21 @@
+{
+  "name": "statuscakectl",
+  "version": "0.0.1",
+  "description": "CLI tool to manage StatusCake resources",
+  "bin": {
+    "statuscake": "bin/statuscake"
+  },
+  "author": "Ralph Wendt",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "statuscake",
+    "cli"
+  ]
+}
